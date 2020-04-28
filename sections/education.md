@@ -1,5 +1,5 @@
 ## Education
 
-* **Sorbonne**, PhD, 1925
-* **University of Chicago**, AB, 1922, Archæology
-  * Adviser: Abner Ravenwood
+* **Κέρκυρα**, 2020
+* **Ιόνιο Πανεπιστημιο**, Ιούνιος 2020, Τμήμα Πληροφορικής 
+  * Adviser: Χωριανόπουλος Κωνσταντίνος
